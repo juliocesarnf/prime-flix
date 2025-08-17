@@ -1,8 +1,8 @@
-#Projeto Prime Flix
+# Projeto Prime Flix
 
 Este projeto é um sistema de gerenciamento de filmes que busca os filmes em destaque em uma API e permite ao usuário visualizar informações e salvar títulos.
 
-##Indice
+## Indice
 
 1. [Funcionalidades](#Funcionalidades).
 2. [Tecnologias](#Tecnologias).
@@ -10,7 +10,7 @@ Este projeto é um sistema de gerenciamento de filmes que busca os filmes em des
 4. [Como Usar](#Como-Usar).
 5. [Contato](#Contato).
 
-##Funcionalidades
+## Funcionalidades
 
 - Visualizar os dez principais filmes do momento.
 - Salvar filmes, adicionando-os à aba de favoritos.
@@ -23,7 +23,7 @@ Este projeto é um sistema de gerenciamento de filmes que busca os filmes em des
 - React
 - Tailwind CSS
 
-##Como Rodar
+## Como Rodar
 
 Para rodar este projeto localmente, siga estas etapas:
 
@@ -39,7 +39,7 @@ Para rodar este projeto localmente, siga estas etapas:
 7. Rode o preview de produção:
    npm run preview
 
-##Como Usar
+## Como Usar
 
 - Ao acessar, você verá uma lista com os dez filmes mais populares do momento.
 - No header:
@@ -54,7 +54,7 @@ Para rodar este projeto localmente, siga estas etapas:
   - **Excluir**: remove o filme da lista.
   - **Detalhes**: volta para a página do filme.
 
-##Contato
+## Contato
 
 Julio Cesar Martins de Souza - julio2001nf@gmail.com
 
