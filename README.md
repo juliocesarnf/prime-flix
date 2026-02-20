@@ -17,7 +17,7 @@ Este projeto é um sistema de gerenciamento de filmes que busca os filmes em des
 - Redirecionamento para o trailer dos filmes no YouTube.
 - Excluir filmes salvos da lista.
 
-##Tecnologias
+## Tecnologias
 
 - TypeScript
 - React
